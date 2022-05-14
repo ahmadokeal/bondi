@@ -1,0 +1,38 @@
+{
+    Add Cursor Above:
+        "key": "ctrl+alt+UpArrow"
+
+    Add Cursor below:
+        "key": "ctrl+alt+DownArrow"
+        
+    Add Selection To Next Find Match:
+        "key": "ctrl+d"
+
+    Copy Line Down:
+        "key": "shift+alt+down",
+
+    Copy Line Up:
+        "key": "shift+alt+up",
+
+    Insert Line Above:
+        "key": "ctrl+shift+enter",
+
+    Insert Line below:
+        "key": "ctrl+enter",
+
+    Move Line Down:
+         "key": "alt+down",
+
+    Move Line up:
+         "key": "alt+up",
+
+    Toggle Line Comment:
+        "key": "ctrl+/",
+
+    Trigger Parameter Hints:
+      "key": "ctrl+shift+space",
+
+    Trigger Suggest:
+        "key": "ctrl+space",
+    
+}
